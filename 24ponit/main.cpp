@@ -135,6 +135,7 @@ void alltcacu(int *pt1 , double ***pt2){
         ite1++;
     }
     cout << m << " ways to get 24 in total.";
+    cout << "ByeBye! ";
 }
 
 double cacu(double a, double b, int c){
